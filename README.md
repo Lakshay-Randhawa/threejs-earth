@@ -1,5 +1,3 @@
-# THREE.js Earth scene
+# Earth's 3d model
 
-Watch the tutorial on [YouTube](https://youtu.be/FntV9iEJ0tU)
-
-Earth texture maps: [PlanetPixelEmporium](https://planetpixelemporium.com/earth.html)
+This project uses three.js to visulaize a 3d model of Earth which shows different details including clouds, city lights, day-night effect using mesh.
